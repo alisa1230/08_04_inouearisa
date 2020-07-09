@@ -1,0 +1,11 @@
+.jumbotron-fluid_extend {
+  padding-right: 0;
+  padding-left: 0;
+  border-radius: 0;
+}
+
+.container_extend{
+    
+    background-image: url(image/consert.jpg);
+    min-width: 992px !important;
+}
